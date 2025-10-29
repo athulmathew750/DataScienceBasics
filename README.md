@@ -1,0 +1,1 @@
+Secure zone is an ai driven face detection system particularly used for real time monitoring of unauthorized areas. Only authorized people have access to those places and their face and data is stored in database if anyone other than the person in that databse is detected by the camera a security breach alarm is triggerd.
